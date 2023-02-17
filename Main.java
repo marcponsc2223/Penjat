@@ -11,6 +11,12 @@ public class Main {
     }
     //FUNCION menu.
     private static void menu() {
+        System.out.println("ESTO ESTA HECHO CON GIT");
+        System.out.println("ESTO ESTA HECHO CON GIT");
+        System.out.println("ESTO ESTA HECHO CON GIT");
+        System.out.println("ESTO ESTA HECHO CON GIT");
+        System.out.println("ESTO ESTA HECHO CON GIT");
+	System.out.println("HECHO CON GIT");
         System.out.println("Benvilgut a EL PENJAT");
         System.out.println("El joc consisteix en que tens que endevinar una paraula, tendrás que escriure lletres fins tindre la paraula completa, però cura, no és tan facil, si falles s'anirà creant el penjat, i si es crea del tot, perderes, tens 6 fallades, bona sort!!");
         System.out.println("Aqui tens un exemple del penjat acabat: ");
